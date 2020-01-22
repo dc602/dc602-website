@@ -3,11 +3,9 @@ layout: default
 post_list: "date"
 toc: false
 home_btn: true
-btn_text: true
 footer: true
 title: ""
 author: ""
-encrypted_text: true
 permalink: /
 ---
 
@@ -37,5 +35,4 @@ end
 ```
 ## Download and Documentation
 
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
 
