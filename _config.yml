@@ -5,7 +5,7 @@ url: "https://www.dc602.com"
 baseurl: "/dc602-website"
 permalink: /:title/
 description: ""
-# markdown: kramdown
+markdown: kramdown
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
