@@ -2,7 +2,7 @@
 title: DC602
 owner: "DC602 Group"
 url: "https://www.dc602.com"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/dc602-website"
 permalink: /:title/
 description: ""
 markdown: kramdown
