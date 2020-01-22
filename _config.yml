@@ -1,19 +1,21 @@
 ## Settings
 title: DC602
-owner: "DC602 Group"
-url: "https://www.dc602.com"
-baseurl: "/dc602-website"
+owner: ""
+url: "https://www.dc602.org/"
+email: ""
+github: "dc602"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
+maximize: false
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-#github: "akiritsu/pRoJEct-NeGYa"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 # default max toc levels: 1 - 6 (h1 - h6)
-toc_level: 3
+toc_level: 1
 # texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+bgtext: "DC602αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"

@@ -78,10 +78,11 @@ $blk-timing-function: cubic-bezier(0.98, -0.23, 0.65, 0.7);
       border: 1px solid $color-primary;
       border-bottom: none;
       .nav_bar {
-        text-align: left;
+        text-align: center;
         display: block;
         list-style: none;
-        padding: 6px 12px;
+	padding: 6px 12px;
+	padding-bottom: 6px;
         word-wrap: none;
         overflow: hidden;
         white-space: nowrap;
@@ -94,16 +95,13 @@ $blk-timing-function: cubic-bezier(0.98, -0.23, 0.65, 0.7);
             display: inline-block;
             cursor: pointer;
           }
-          .span_right {
-            float: right;
-            cursor: pointer;
-            max-width: 60%;
-            .title {
-              font-weight: 450;
-            }
-            .owner {
-              font-weight: 200;
-            }
+	  .div_left {
+	    float: left;
+	  }
+
+          }
+	  .div_right {
+	    float: right;
           }
           .header_btn {
             display: inline-block;
@@ -120,11 +118,24 @@ $blk-timing-function: cubic-bezier(0.98, -0.23, 0.65, 0.7);
               text-decoration: underline;
             }
           }
-          .access_token {
+          .div_center {
+	    pointer-events: none;
+	    position: absolute;
+	    left: 0;
+	    right: 0;
+	    text-align: center;
+            .title {
+              font-weight: 450;
+            }
+            .owner {
+              font-weight: 200;
+            }
+ 	  .access_token {
             resize: none;
             float: right;
             display: inline-flexbox;
             margin: 0px 5px;
+	    margin-right: 0px;
           }
         }
       }
@@ -159,6 +170,10 @@ $blk-timing-function: cubic-bezier(0.98, -0.23, 0.65, 0.7);
         // code highlight
         pre {
           border: 0.6px solid $color-primary;
+	  background-color: #002400d6;
+	  margin: 0px 25px;
+	  padding: 5px 10px;
+	  font-size: 14px;
         }
         // table style
         table {
@@ -343,6 +358,7 @@ body {
   textarea {
     margin: 0;
     padding: 0;
+    height: 18px;
     border: 0.5px solid rgba($color-primary, 0.9);
     background-color: rgba($color-postbg, 0.7);
     color: $color-warning;

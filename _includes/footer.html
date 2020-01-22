@@ -1,10 +1,10 @@
 <div class="footer">
     <nav class="nav_bar">
         <ul>
+            {% if site.statement %}
             <li class="copyright">
                 © 2019
             </li>
-            {% if site.statement %}
             <li>
                 {{ site.statement }}
             </li>

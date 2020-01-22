@@ -9,9 +9,9 @@ author: ""
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# **DEFCON GROUP 602**
 
-##  Features
+## Meetings
 * Highly customizable, content-oriented with The Matrix style
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
