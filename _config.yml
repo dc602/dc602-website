@@ -1,1 +1,10 @@
+title: DC602
+description: Phoenix Area Defcon Group 
 theme: jekyll-theme-hacker
+
+navbar-links:
+  Where: "where"
+  Test:
+    - Test1: "https://www.facebook.com/"
+    - Test2: "https://www.twitter.com/"
+  Author's home: "https://www.dc602.com/"
