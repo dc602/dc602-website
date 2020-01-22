@@ -1,10 +1,23 @@
+## Settings
 title: DC602
-description: Phoenix Area Defcon Group 
-theme: jekyll-theme-hacker
+owner: "DC602 Group"
+url: "https://www.dc602.org/"
+description: "Phoenix Area Defcon Group"
+## Global Variables
+email: "rekognizer@gmail.com"
 
+# navbar
 navbar-links:
   Where: "where"
   Test:
-    - Test1: "https://www.facebook.com/"
-    - Test2: "https://www.twitter.com/"
-  Author's home: "https://www.dc602.com/"
+    - Test1: "help.com"
+    - Test2: "help.net"
+
+
+# Theme stuffs
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
