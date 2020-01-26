@@ -6,6 +6,7 @@ home_btn: true
 footer: true
 title: ""
 author: ""
+encrypted_text: true
 permalink: /
 ---
 
