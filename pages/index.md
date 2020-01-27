@@ -1,6 +1,5 @@
 ---
 layout: default
-post_list: "date"
 toc: false
 home_btn: true
 footer: true
@@ -11,29 +10,13 @@ permalink: /
 ---
 
 # **DEFCON GROUP 602**
+EVERY THIRD TUESDAY
+{: style="text-align: center; font-size: 14px"}
+### Slack
+The invite below is encrypted, find the key and enter it in the decrypt field above.
+<!-- TODO: Encrypt the invite with the key "thought" -->
+: <p class="encrypted" id="stCOCbOGu34wBhlGYjTlgQ9T3/Voabbal9xgA8py1569rCzoSeSP0S6CoyxGGmQ/FMx1Y6pIc26j4UKB7cwUxS8XYtQiQ+ToETk8cLAg==">M̷a̶y̵ ̴t̴h̶e̵ ̶s̸o̶u̴r̸c̴e̸ ̶b̶e̷ ̶w̶i̴t̸h̷ ̴y̴o̷u̷.̸.̸.̴</p>
 
-## Meetings
-* Highly customizable, content-oriented with The Matrix style
-* Eyesight-protection layout
-* Decrypt and encrypt text (access token: 233): 
-  * secret msg 1: 
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-  * secret msg 2: 
-  <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
-* LaTeX formula Support with MathJax
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
-* Code highlight with Rouge
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-## Download and Documentation
-
+## Meeting Calendar
 
