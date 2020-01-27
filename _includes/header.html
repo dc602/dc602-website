@@ -183,7 +183,7 @@
       try {
         var txt = sjcl.json.decrypt(pwd, ct);
       } catch (e) {
-        alert("Invalid Access Token!");
+        //alert("Invalid Access Token!");
         return;
       }
       elem_clct[acc].innerHTML = txt;
@@ -194,7 +194,7 @@
     var tkn = document.getElementById("acs_tkn");
     if (decrypt_all(tkn.value, "encrypted")) {
       tkn.style.display = "none";
-      #document.getElementById("acs_btn").style.display = "none";
+      //#document.getElementById("acs_btn").style.display = "none";
     }
   }
 </script>
