@@ -9,14 +9,34 @@ encrypted_text: true
 permalink: /
 ---
 
+
 # **DEFCON GROUP 602**
 EVERY THIRD TUESDAY
-{: style="text-align: center; font-size: 14px"}
-### Slack
-The invite below is encrypted, find the key and enter it in the decrypt field above.
+{: style="text-align: center; font-size: 16px"}
+PHOENIX, AZ
+{: style="text-align: center; font-size: 15px"}
+
+<br/>
+{: style="font-size: 4px"}
+
+---
+
+<br/>
+{: style="font-size: 18px"}
+
+## Join Us
+<br/>
+{: style="font-size: 4px"}
+
+### On Slack
+The invite below is encrypted, find the key and enter it into the decrypt field above.
 <!-- TODO: Encrypt the invite with the key "thought" -->
 : <p class="encrypted" id="stCOCbOGu34wBhlGYjTlgQ9T3/Voabbal9xgA8py1569rCzoSeSP0S6CoyxGGmQ/FMx1Y6pIc26j4UKB7cwUxS8XYtQiQ+ToETk8cLAg==">M̷a̶y̵ ̴t̴h̶e̵ ̶s̸o̶u̴r̸c̴e̸ ̶b̶e̷ ̶w̶i̴t̸h̷ ̴y̴o̷u̷.̸.̸.̴</p>
+<br/>
 
+### In Person
+Add our public Google Calendar and never miss a meeting.
+: <p class="encrypted" id="">S̷̥͇̈́h̸̪̥̎͜i̴̧̤̝͛̃͒t̴̥̍̊.̸̛̻̇ ̷̮͛ ̴̺͂͘͝I̶̫̝ ̵̗͓́d̵̰̝̠̈ȇ̴̹̔̋l̷̺̬̪̽ė̵̯̩̬̾t̸͈̳̺͌̕è̷̟ḍ̷̝̝̾ ̷̧̫̓̆͘t̶͔̅͂͠ȟ̸͖͚ẻ̶̪̥͚ ̴̝̉͑͗c̵͋͜i̶̱͖͋p̷̨̯̲̃͒h̴̬̜̓̍͒ẽ̴͉̤͝r̶̪̯͋t̵̗͉̓͘͜e̴̙̙͓͒x̴̠̎̍t̴͕̖̊̇͘.̷̞͈̔̿</p>
 
-## Meeting Calendar
-
+The DEF CON Groups were spawned from the annual DEF CON security conference in Las Vegas. The DEF CON Groups (DCGs or DC-Groups) are a gathering point for folks interested in the alternate applications of modern technology, referred to properly as 'hacking'. DCGs are not intended to compete with any other computer groups, such as 2600, but rather to provide yet another gathering place for the discussion of technology and security topics. DCG meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and it's members.
+{: style="text-align: justify; left: 0; bottom: 0; position: absolute; margin: 5%;"}

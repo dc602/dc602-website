@@ -28,13 +28,13 @@ Helvetica,
 Tahoma, 
 Arial,
 sans-serif;
-$font-size-h1: 23px;
-$font-size-h2: 23px;
+$font-size-h1: 33px;
+$font-size-h2: 28px;
 $font-size-h3: 21px;
 $font-size-h4: 21px;
 $font-size-h5: 19.5px;
 $font-size-h6: 16px;
-$font-size-primary: 18.5px;
+$font-size-primary: 16px;
 $font-smaller: 88%;
 $font-bigger: 108%;
 $blk-duration: 1.2s;
@@ -318,31 +318,36 @@ body {
     font-size: $font-size-h1;
     text-transform: uppercase;
     text-align: center !important;
-    font-weight: lighter;
-    margin: 22px 0px 8px 0px;
+    font-weight: bold;
+    margin: 8px 0px 8px 0px;
   }
   h2 {
     font-size: $font-size-h2;
-    font-weight: lighter;
-    text-transform: capitalize;
-    border-bottom: 0.6px solid rgba($color-primary, 0.3);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 1%;
   }
   h3 {
     font-size: $font-size-h3;
-    text-transform: capitalize;
-    font-weight: lighter;
+    margin: 1%;
+    text-transform: uppercase;
+    font-weight: bold;
   }
   h4 {
     font-size: $font-size-h4;
-    font-weight: lighter;
+    font-weight: bold;
+    margin: 1%;
   }
   h5 {
     font-size: $font-size-h5;
-    font-weight: lighter;
+    font-weight: normal;
+    margin: 1%;
   }
   h6 {
     font-size: $font-size-h6;
-    font-weight: lighter;
+    font-weight: normal;
+    margin: 1%;
   }
   p {
     margin: 10px;
