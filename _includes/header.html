@@ -59,7 +59,7 @@
                             {% endif %}
                         </i>
                     </a>
-                    <textarea class="access_token" cols="8" id="acs_tkn" rows="1"></textarea>
+                    <textarea class="access_token" cols="8" id="acs_tkn" rows="1" onkeypress="validateOnEnter(event)"></textarea>
                 {% endif %}
 	    </div>
         </ul>
@@ -196,6 +196,10 @@
       tkn.style.display = "none";
       //#document.getElementById("acs_btn").style.display = "none";
     }
+  }
+  function validateOnEnter(event) {
+    var key = event.which || event.keyCode;
+    if (key == 13) { apply_token(); }
   }
 </script>
 {% endif %}
