@@ -41,6 +41,7 @@ Add our public Google Calendar and never miss a meeting.
 The DEF CON Groups were spawned from the annual DEF CON security conference in Las Vegas. The DEF CON Groups (DCGs or DC-Groups) are a gathering point for folks interested in the alternate applications of modern technology, referred to properly as 'hacking'. DCGs are not intended to compete with any other computer groups, such as 2600, but rather to provide yet another gathering place for the discussion of technology and security topics. DCG meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and its members.
 {: style="text-align: justify; left: 0; bottom: 0; position: absolute; margin: 5%;"}
 
+### WUT?
 <!--
 Key and IV: xn--80adpqfl4azf.xn--90aihh7a.space
 Alg: AES128-CBC
