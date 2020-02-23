@@ -46,4 +46,4 @@ The DEF CON Groups were spawned from the annual DEF CON security conference in L
 Key and IV: xn--80adpqfl4azf.xn--90aihh7a.space
 Alg: AES128-CBC
 -->
-: <p>XOhOivhno3j1W7N6z2sz31vUckkthXsZg6/KB6Pc5W22QtI1RkFIw+nIwzps5N/it/CL4QIETl2ioA+81CIVRA==</p>
+: <p class="encrypted">XOhOivhno3j1W7N6z2sz31vUckkthXsZg6/KB6Pc5W22QtI1RkFIw+nIwzps5N/it/CL4QIETl2ioA+81CIVRA==</p>
