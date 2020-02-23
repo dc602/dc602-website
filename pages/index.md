@@ -39,11 +39,10 @@ Add our public Google Calendar and never miss a meeting.
 : <p class="encrypted" id="52YRRyEuyT7qg4f3QlYgZARZ5Flp2tO0FaxP/OvOYect3ecYyIusip/TMwYw==">S̷̥͇̈́h̸̪̥̎͜i̴̧̤̝͛̃͒t̴̥̍̊.̸̛̻̇ ̷̮͛ ̴̺͂͘͝I̶̫̝ ̵̗͓́d̵̰̝̠̈ȇ̴̹̔̋l̷̺̬̪̽ė̵̯̩̬̾t̸͈̳̺͌̕è̷̟ḍ̷̝̝̾ ̷̧̫̓̆͘t̶͔̅͂͠ȟ̸͖͚ẻ̶̪̥͚ ̴̝̉͑͗c̵͋͜i̶̱͖͋p̷̨̯̲̃͒h̴̬̜̓̍͒ẽ̴͉̤͝r̶̪̯͋t̵̗͉̓͘͜e̴̙̙͓͒x̴̠̎̍t̴͕̖̊̇͘.̷̞͈̔̿</p>
 
 The DEF CON Groups were spawned from the annual DEF CON security conference in Las Vegas. The DEF CON Groups (DCGs or DC-Groups) are a gathering point for folks interested in the alternate applications of modern technology, referred to properly as 'hacking'. DCGs are not intended to compete with any other computer groups, such as 2600, but rather to provide yet another gathering place for the discussion of technology and security topics. DCG meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and its members.
-{: style="text-align: justify; left: 0; bottom: 0; position: absolute; margin: 5%;"}
 
-### WUT?
 <!--
 Key and IV: xn--80adpqfl4azf.xn--90aihh7a.space
 Alg: AES128-CBC
 -->
-: <p class="encrypted">XOhOivhno3j1W7N6z2sz31vUckkthXsZg6/KB6Pc5W22QtI1RkFIw+nIwzps5N/it/CL4QIETl2ioA+81CIVRA==</p>
+XOhOivhno3j1W7N6z2sz31vUckkthXsZg6/KB6Pc5W22QtI1RkFIw+nIwzps5N/it/CL4QIETl2ioA+81CIVRA==
+{: style="text-align: justify; left: 0; bottom: 0; position: absolute; margin: 5%;"}
