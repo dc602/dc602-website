@@ -11,7 +11,7 @@ permalink: /
 
 
 # **DEFCON GROUP 602**
-EVERY THIRD THURSDAY
+6PM EVERY THIRD THURSDAY
 {: style="text-align: center; font-size: 16px"}
 PHOENIX, AZ
 {: style="text-align: center; font-size: 15px"}
