@@ -29,7 +29,7 @@ PHOENIX, AZ
 {: style="font-size: 4px"}
 
 ### On Slack
-The invite below is encrypted, find the key and enter it into the decrypt field above.
+The invite below is encrypted, find the key and enter it into the decrypt field above and click Decrypt.
 <!-- TODO: Encrypt the invite with the key "thought" -->
 : <p class="encrypted" id="NpsKIB2wgz/QRa7op+4HHA3HHH6GkrkBmzenqv+sHG1yHhSDytQ+OXtAK1q+lKAjBkomAzvYax0QoutdAowuxpDVBEvf1rhGWl71rlzLS991B8TM6TdcfPTT/PC1aBPProi3mimAUDl5JruX2QoE4anaYyNjM6VjbIEa7lV2lYEVCS54YhaRaYacj9xjOaPA/za+fRgK94N8QVh2YWomWIlEu1akdcVQ87Xj4vaYPyHGSSKxpJ0qlR9PpQsBRODBaLxo+vZfQNYtdH/ScD">M̷a̶y̵ ̴t̴h̶e̵ ̶s̸o̶u̴r̸c̴e̸ ̶b̶e̷ ̶w̶i̴t̸h̷ ̴y̴o̷u̷.̸.̸.̴</p>
 <br/>
