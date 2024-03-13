@@ -35,7 +35,7 @@ The invite below is encrypted, find the key and enter it into the decrypt field 
 <br/>
 
 ### In Person
-CBTS - Phoenix, AZ 5415 E. High Street Building A9, Suite 265 Phoenix, AZ 85054.
+CBTS - Phoenix, AZ 5415 E. High Street Building A9, Suite 265 Phoenix, AZ 85054. Doors lock around 6:05pm - Slack or Discord DAC to get in if you're late.
 : <p class="encrypted" id="52YRRyEuyT7qg4f3QlYgZARZ5Flp2tO0FaxP/OvOYect3ecYyIusip/TMwYw==">S̷̥͇̈́h̸̪̥̎͜i̴̧̤̝͛̃͒t̴̥̍̊.̸̛̻̇ ̷̮͛ ̴̺͂͘͝I̶̫̝ ̵̗͓́d̵̰̝̠̈ȇ̴̹̔̋l̷̺̬̪̽ė̵̯̩̬̾t̸͈̳̺͌̕è̷̟ḍ̷̝̝̾ ̷̧̫̓̆͘t̶͔̅͂͠ȟ̸͖͚ẻ̶̪̥͚ ̴̝̉͑͗c̵͋͜i̶̱͖͋p̷̨̯̲̃͒h̴̬̜̓̍͒ẽ̴͉̤͝r̶̪̯͋t̵̗͉̓͘͜e̴̙̙͓͒x̴̠̎̍t̴͕̖̊̇͘.̷̞͈̔̿</p>
 
 The DEF CON Groups were spawned from the annual DEF CON security conference in Las Vegas. The DEF CON Groups (DCGs or DC-Groups) are a gathering point for folks interested in the alternate applications of modern technology, referred to properly as 'hacking'. DCGs are not intended to compete with any other computer groups, such as 2600, but rather to provide yet another gathering place for the discussion of technology and security topics. DCG meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and its members.  XOhOivhno3j1W7N6z2sz31vUckkthXsZg6/KB6Pc5W22QtI1RkFIw+nIwzps5N/it/CL4QIETl2ioA+81CIVRA==
