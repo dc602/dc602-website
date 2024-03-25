@@ -10,7 +10,7 @@ permalink: /
 ---
 
 
-# **DEFCON GROUP 602**
+# **DEFCON GROUP 602 - DC602**
 6PM EVERY THIRD THURSDAY
 {: style="text-align: center; font-size: 16px"}
 PHOENIX, AZ
