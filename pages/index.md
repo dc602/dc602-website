@@ -28,6 +28,10 @@ PHOENIX, AZ
 <br/>
 {: style="font-size: 4px"}
 
+### The *New* Discord "DefCon 602"
+<p><a href="https://discord.gg/cM2QjtqD2G">Discord</a></p>
+<br/>
+
 ### On Slack
 The invite below is encrypted, find the key and enter it into the decrypt field above and click Decrypt.
 <!-- TODO: Encrypt the invite with the key "thought" -->
