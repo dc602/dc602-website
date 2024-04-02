@@ -28,7 +28,7 @@ PHOENIX, AZ
 <br/>
 {: style="font-size: 4px"}
 
-### The *New* Discord "DefCon 602"
+### The *New* "DefCon 602" Discord
 <p><a href="https://discord.gg/cM2QjtqD2G">Discord</a></p>
 <br/>
 
@@ -38,7 +38,7 @@ The invite below is encrypted, find the key and enter it into the decrypt field 
 : <p class="encrypted" id="NpsKIB2wgz/QRa7op+4HHA3HHH6GkrkBmzenqv+sHG1yHhSDytQ+OXtAK1q+lKAjBkomAzvYax0QoutdAowuxpDVBEvf1rhGWl71rlzLS991B8TM6TdcfPTT/PC1aBPProi3mimAUDl5JruX2QoE4anaYyNjM6VjbIEa7lV2lYEVCS54YhaRaYacj9xjOaPA/za+fRgK94N8QVh2YWomWIlEu1akdcVQ87Xj4vaYPyHGSSKxpJ0qlR9PpQsBRODBaLxo+vZfQNYtdH/ScD">M̷a̶y̵ ̴t̴h̶e̵ ̶s̸o̶u̴r̸c̴e̸ ̶b̶e̷ ̶w̶i̴t̸h̷ ̴y̴o̷u̷.̸.̸.̴</p>
 <br/>
 
-### In Person
+### In Person - We're still meeting in person at the below location as well as hybrid on the new Discord.
 CBTS - Phoenix, AZ 5415 E. High Street Building A9, Suite 265 Phoenix, AZ 85054. Doors lock around 6:05pm - Slack or Discord DAC to get in if you're late.
 : <p class="encrypted" id="52YRRyEuyT7qg4f3QlYgZARZ5Flp2tO0FaxP/OvOYect3ecYyIusip/TMwYw==">S̷̥͇̈́h̸̪̥̎͜i̴̧̤̝͛̃͒t̴̥̍̊.̸̛̻̇ ̷̮͛ ̴̺͂͘͝I̶̫̝ ̵̗͓́d̵̰̝̠̈ȇ̴̹̔̋l̷̺̬̪̽ė̵̯̩̬̾t̸͈̳̺͌̕è̷̟ḍ̷̝̝̾ ̷̧̫̓̆͘t̶͔̅͂͠ȟ̸͖͚ẻ̶̪̥͚ ̴̝̉͑͗c̵͋͜i̶̱͖͋p̷̨̯̲̃͒h̴̬̜̓̍͒ẽ̴͉̤͝r̶̪̯͋t̵̗͉̓͘͜e̴̙̙͓͒x̴̠̎̍t̴͕̖̊̇͘.̷̞͈̔̿</p>
 
