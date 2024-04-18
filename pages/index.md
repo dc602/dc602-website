@@ -29,7 +29,7 @@ PHOENIX, AZ
 {: style="font-size: 4px"}
 
 ### The *New* "DefCon 602" Discord
-<p><a href="https://discord.gg/cM2QjtqD2G">Discord</a></p>
+<p><a href="https://discord.gg/QpKX2hkgKg">Discord</a></p>
 <br/>
 
 ### On Slack
