@@ -10,7 +10,7 @@ www.dc602.com also redirects to www.dc602.org
 
 ## Contributing
 
-Jekyll is relatively simple to understand and doesn't require any coding knowledge or knowledge of ruby.  Most of the sites pages are written in Kramdownand rendered into HTML by Jekyll when the github pages flow kicks off after a new commit.
+Jekyll is relatively simple to understand and doesn't require any coding knowledge or knowledge of ruby.  Most of the sites pages are written in Kramdown and rendered into HTML by Jekyll when the github pages flow kicks off after a new commit.
 
 In order to contribute you will need to install ruby.  I recommend using rbenv over your local package manager as we will need to use a specific version of ruby to run the local version of this site.  RVM is also available as an alternative to rbenv, but we will use rbenv here.
 
